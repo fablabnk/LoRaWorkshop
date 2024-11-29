@@ -1,3 +1,5 @@
+Quick start guide for v3: https://docs.heltec.org/en/node/esp32/esp32_general_docs/quick_start.html
+
 This repo is a super-mimimal guide to getting up and running with Heltec LoRa WiFi boards using Arduino IDE 2. The aim is to get the board you have been given to flash with the simple factory test example, so that you can begin exploring its possibilties. We will work in teams with either a WiFi LoRa 32 (V2) or WiFi LoRa 32 (V3) board with the end goal to get the boards sending and receiving to each other
 
 # Getting Started
